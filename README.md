@@ -56,3 +56,6 @@
     - id: 선수 ID
     - first_name
     - last_name
+   
+### 시각화 결과
+https://www.notion.so/Data-Visualization-Project-4731a0fc94d748b4b12485843f28f3ee
